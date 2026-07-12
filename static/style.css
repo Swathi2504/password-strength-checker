@@ -1,0 +1,33 @@
+body {
+    background-color:#000000;
+}
+
+.card {
+    background-color: #161b22;
+    color: white;
+    border: 1px solid #30363d;
+}
+
+.form-control {
+    background-color: #21262d;
+    color: white;
+    border: 1px solid #30363d;
+}
+
+.form-control::placeholder {
+    color: #8b949e;
+}
+
+.form-control:focus {
+    background-color: #21262d;
+    color: white;
+}
+
+.card-header {
+    font-weight: bold;
+}
+
+.custom-card {
+    max-width: 700px;
+    margin: 0 auto;
+}
