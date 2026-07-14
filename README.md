@@ -1,4 +1,4 @@
-# 🔐 Password Strength Analyzer
+# 🔐 Password Strength Checker
 
 A Python Flask-based web application that evaluates the strength of user passwords by analyzing common security factors such as length, uppercase letters, lowercase letters, numbers, special characters, and common password patterns.
 
@@ -49,7 +49,7 @@ The objective of this project is to help users create stronger and more secure p
 ## 📂 Project Structure
 
 ```
-PasswordStrengthAnalyzer/
+PasswordStrengthChecker/
 │
 ├── app.py
 ├── requirements.txt
@@ -69,13 +69,13 @@ PasswordStrengthAnalyzer/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/swathi2504/PasswordStrengthAnalyzer.git
+git clone https://github.com/swathi2504/PasswordStrengthChecker.git
 ```
 
 ### 2. Navigate to the project folder
 
 ```bash
-cd PasswordStrengthAnalyzer
+cd PasswordStrengthChecker
 ```
 
 ### 3. Install dependencies
